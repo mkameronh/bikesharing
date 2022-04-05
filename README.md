@@ -1,5 +1,7 @@
 # Bikesharing
 
+[link to dashboard] (https://public.tableau.com/app/profile/kameron.higgins/viz/BikeSharingChallenge_16490219221400/NYCCitiBikeAnalysis)
+
 ## Overview of the Analysis
 
 For this analysis, we were given a set of data from NYC Citi Bikes from August of 2019. We were instructed to use Tableau to create visualizations that will provide investors in Des Moines with a good snapshot into what the bike-shareing program is like. We hope to use these data vizualizations to solidify the proposal.
